@@ -1,1 +1,1 @@
-This is a test. Will upddate later after working on Recipes# odin-recipes
+Seems like the recipes project went well. No difficulties at least. No more to say. HOLA # odin-recipes
